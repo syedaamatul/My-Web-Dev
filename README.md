@@ -1,2 +1,2 @@
 # My-Web-Dev
-This is my web development project
+Hi! I am Syeda Amatul Bari. This is my first GitHub project 
